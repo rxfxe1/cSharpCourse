@@ -1,0 +1,14 @@
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\bin\Debug\net7.0\challenge_1.exe
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\bin\Debug\net7.0\challenge_1.deps.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\bin\Debug\net7.0\challenge_1.runtimeconfig.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\bin\Debug\net7.0\challenge_1.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\bin\Debug\net7.0\challenge_1.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.AssemblyInfoInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.AssemblyInfo.cs
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\refint\challenge_1.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\challenge_1.genruntimeconfig.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\challenge_1\obj\Debug\net7.0\ref\challenge_1.dll
