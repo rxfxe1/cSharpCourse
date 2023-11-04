@@ -16,3 +16,6 @@ int first = 7;
 int second = 5;
 decimal quotient2 = (decimal)first / (decimal)second;
 Console.WriteLine(quotient2);
+
+Console.WriteLine($"\nModulus of 200 / 5 : {200 % 5}");
+Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
