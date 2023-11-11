@@ -1,0 +1,14 @@
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.AssemblyInfoInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.AssemblyInfo.cs
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\bin\Debug\net7.0\4_2.exe
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\bin\Debug\net7.0\4_2.deps.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\bin\Debug\net7.0\4_2.runtimeconfig.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\bin\Debug\net7.0\4_2.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\bin\Debug\net7.0\4_2.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\refint\4_2.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\4_2.genruntimeconfig.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\4_2\obj\Debug\net7.0\ref\4_2.dll
