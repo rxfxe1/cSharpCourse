@@ -1,0 +1,14 @@
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\bin\Debug\net7.0\guided_project_1_grades.exe
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\bin\Debug\net7.0\guided_project_1_grades.deps.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\bin\Debug\net7.0\guided_project_1_grades.runtimeconfig.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\bin\Debug\net7.0\guided_project_1_grades.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\bin\Debug\net7.0\guided_project_1_grades.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.AssemblyInfoInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.AssemblyInfo.cs
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\refint\guided_project_1_grades.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\guided_project_1_grades.genruntimeconfig.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_1_grades\obj\Debug\net7.0\ref\guided_project_1_grades.dll
