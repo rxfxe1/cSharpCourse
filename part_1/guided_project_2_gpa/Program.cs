@@ -5,8 +5,15 @@ string course3Name = "Biology 101";
 string course4Name = "Computer Science I";
 string course5Name = "Psychollgy 101";
 
+int
+
 int course1Credit = 3;
 int course2Credit = 3;
 int course3Credit = 4;
 int course4Credit = 4;
 int course5Credit = 3;
+
+Console.WriteLine("Student: " + studentName);
+
+Console.WriteLine("Course\t\tGrade\t\tCredit Hours");
+Console.WriteLine(course1Name + );
