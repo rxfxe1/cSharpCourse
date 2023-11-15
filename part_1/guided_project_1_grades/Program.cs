@@ -1,4 +1,7 @@
-﻿// variables - grades
+﻿
+// variables - grades
+
+
 int currentAssignment = 5;
 
 int sophia1 = 93;
