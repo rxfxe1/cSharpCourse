@@ -27,10 +27,17 @@ Console.WriteLine(course1Name + $"\t\t{course1Grade}\t\t{course1Hours}");
 Console.WriteLine(course2Name + $"\t\t{course2Grade}\t\t{course2Hours}");
 Console.WriteLine(course3Name + $"\t\t{course3Grade}\t\t{course3Hours}");
 Console.WriteLine(course4Name + $"\t{course4Grade}\t\t{course4Hours}");
-Console.WriteLine(course5Name + $"\t\t{course5Grade}\t\t{course5Hours}");
+Console.WriteLine(course5Name + $"\t\t{course5Grade}\t\t{course5Hours}\n");
 
 double GPA1Multi = course1Grade * course1Hours;
-double GPA2 = course2Grade * course2Hours;
-double GPA3 = course3Grade * course3Hours;
-double GPA4 = course4Grade * course4Hours;
-double GPA5 = course5Grade * course5Hours;
+double GPA2Multi = course2Grade * course2Hours;
+double GPA3Multi = course3Grade * course3Hours;
+double GPA4Multi = course4Grade * course4Hours;
+double GPA5Multi = course5Grade * course5Hours;
+
+double GPASum = GPA1Multi + GPA2Multi + GPA3Multi + GPA4Multi + GPA5Multi;
+double hourSum = course1Hours + course2Hours + course3Hours + course4Hours + course5Hours;
+
+double finalGPA = GPASum / hourSum;
+
+Console.WriteLine($"Final GPA: \t\t{finalGPA}");
