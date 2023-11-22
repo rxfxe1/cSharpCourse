@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "guided_project_2_gpa_microsoft_correction/1.0.0": {
+        "runtime": {
+          "guided_project_2_gpa_microsoft_correction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guided_project_2_gpa_microsoft_correction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

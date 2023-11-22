@@ -1,0 +1,14 @@
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\bin\Debug\net7.0\guided_project_2_gpa_microsoft_correction.exe
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\bin\Debug\net7.0\guided_project_2_gpa_microsoft_correction.deps.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\bin\Debug\net7.0\guided_project_2_gpa_microsoft_correction.runtimeconfig.json
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\bin\Debug\net7.0\guided_project_2_gpa_microsoft_correction.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\bin\Debug\net7.0\guided_project_2_gpa_microsoft_correction.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.AssemblyInfoInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.AssemblyInfo.cs
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\refint\guided_project_2_gpa_microsoft_correction.dll
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.pdb
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\guided_project_2_gpa_microsoft_correction.genruntimeconfig.cache
+C:\Users\Rafael Silva\source\repos\cSharpCourse\part_1\guided_project_2_gpa_microsoft_correction\obj\Debug\net7.0\ref\guided_project_2_gpa_microsoft_correction.dll
